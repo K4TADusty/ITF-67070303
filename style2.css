@@ -1,0 +1,21 @@
+.profile{
+    width: 300px;
+    height: 300px;
+    background-image: url(https://i.pinimg.com/564x/8c/c4/92/8cc492be438c76b99371d691d23cff8f.jpg);
+    background-position:  cover;
+    background-size: cover;
+    border-radius: 50%;
+    position: relative;
+}
+.notify{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(57, 190, 102);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 15px;
+    right: 20px;
+}
