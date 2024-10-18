@@ -17,6 +17,8 @@
     font-size: 27px;
     display: grid;
     height: 500px;
+    align-item: center;
+    justify-content: center;
 }
 .title-txt{
     display: flex;
